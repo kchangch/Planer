@@ -1,8 +1,8 @@
 # Trip Planer
 ## Challenges
-* 1. **Determine the most efficient way to determine the cheapest price to travel from a city to another
-* 2. **Understanding the best data structure to be used to ensure efficiency of the program
-* 3. **Understand Dijkstra's algorithm and adapt it to the current problem to provide the required solution
+1. **Determine the most efficient way to determine the cheapest price to travel from a city to another
+2. **Understanding the best data structure to be used to ensure efficiency of the program
+3. **Understand Dijkstra's algorithm and adapt it to the current problem to provide the required solution
 
 
 ## About
